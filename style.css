@@ -24,6 +24,15 @@ h1 {
     text-transform: uppercase;
     color: #fff;
     text-shadow: 2px 2px 0px #000;
+    margin-bottom: 10px;
+}
+
+/* Версия стилі */
+.version {
+    color: #aaaaaa;
+    font-size: 1.2em;
+    margin-top: 0;
+    margin-bottom: 20px;
 }
 
 .highlight {
